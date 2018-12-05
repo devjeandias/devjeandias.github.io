@@ -1,7 +1,5 @@
 # Jean Carlos Dias Dos Santos
 
-
-
 ## 1. DADOS PESSOAIS
 
 Endereço:	R. Silvio Rocha, 192
@@ -21,15 +19,14 @@ Possuo conhecimento avançado em: HTML, CSS, SASS, GRUNT, GULP, JS/JQUERY, YEOMA
 ## 2. EXPERIÊNCIA PROFISSIONAL
 
 ### AGÊNCIA N1 - https://agencian1.com.br/
-#### Período: 03/2018 a atual.
 Cargo: Desenvolvedor Front-end
 -  Análise de projetos
 -  Desenvolvimento de templates para wordpress
 -  Desenvolvimento de lojas virtuais com a plataforma vtex
 
+Período: 03/2018 a atual.
 
 ### SIRIUS MULTIMIDIA - https://www.sirius.com.br
-#### Período: 10/2013 a 05/2017.
 Cargo: Desenvolvedor Front-end
 -  Análise de projetos
 -  Liderança técnica de front-end
@@ -37,14 +34,15 @@ Cargo: Desenvolvedor Front-end
 -  Integração de APIs
 -  Principais projetos desenvolvidos: http://www.cedae.com.br, http://www.supervia.com.br, https://ri.raizen.com.br e https://www.odebrecht.com/presenca-no-mundo/pt-br/home.
 
+Período: 10/2013 a 05/2017.
 
 ### ORIGINAL MEDIA - https://originalmedia.com.br
-#### Período: 02/2013 a 09/2013.
 Cargo: Desenvolvedor Front-end
 -  Análise de projetos
 -  Desenvolvimento de templates para wordpress
 -  Desenvolvimento de lojas virtuais com a plataforma vtex
 
+Período: 02/2013 a 09/2013.
 
 ## 3. CURSOS
 
