@@ -2,14 +2,10 @@
 
 ## 1. DADOS PESSOAIS
 
-### Endereço:
-R. Silvio Rocha, 192, Centro – Belford Roxo/RJ - 26130-210.
-### Telefones:
-(21) 97645-9780
-### E-mails:
-devjeandias@gmail.com
-### LinkedIn:
-https://www.linkedin.com/in/jean-c-dias-552a7871/
+### Endereço: R. Silvio Rocha, 192, Centro – Belford Roxo/RJ - 26130-210.
+### Telefones: (21) 97645-9780
+### E-mails: devjeandias@gmail.com
+### LinkedIn: https://www.linkedin.com/in/jean-c-dias-552a7871/
 
 Profissional com mais de 6 anos de experiência no ambiente internet. 
 
