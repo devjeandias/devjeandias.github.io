@@ -4,86 +4,73 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>portfólio</title>
+  <title>Jean Dias | Front-end Developer</title>
 
   <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,700,800" rel="stylesheet">
+  <link href="/style.css" rel="stylesheet">
 </head>
+
 <body>
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-    }
+  <div class="global ink">
+    <aside id="sidebar" class="ink">
+        <h1>Jean Dias <span>Front-end Developer</span></h1>
 
-    html,
-    body {
-      height: 100%;
-    }
+        <hr>
 
-    body {
-      background: -webkit-radial-gradient(#62b4d6 20%, #14a2dd 80%);
-      background: -o-radial-gradient(#62b4d6 20%, #14a2dd 80%);
-      background: radial-gradient(#62b4d6 20%, #14a2dd 80%);
-      font-family: 'Nunito Sans', sans-serif;
-      -webkit-box-pack: center;
-          -ms-flex-pack: center;
-              justify-content: center;
-      text-align: center;
-      font-size: 16px;
-      display: -webkit-box;
-      display: -ms-flexbox;
-      display: flex;
-      color: #fff;
-    }
+        <h2>Sobre</h2>
+        <p>Profissional com mais de 6 anos de experiência no ambiente internet.</p>
+        <p>Durante esses anos, atuei ao lado de grandes profissionais da internet brasileira como desenvolvedor front-end e na liderança técnica de equipes de front-end. Já atuei nos mais variados tipos de projetos. Penso constantemente em soluções objetivando o melhor resultado para o projeto e para a empresa.</p>
+        <p>Comprometimento e disposição para encarar novos desafios. Habilidade em buscar o entendimento do cliente e de seu modelo de negócios a fim de propor soluções mais completas e estratégicas.</p>
 
-    .wrapper {
+        <hr/>
 
-      -ms-flex-item-align: center;
-          align-self: center;
-    }
+        <h3>Conhecimentos</h3>
+        <p>HTML, CSS, SASS, GRUNT, GULP, JS/JQUERY, YEOMAN, WORDPRESS, VTEX, RESPONSIVE, LINUX e PHOTOSHOP.</p>
 
-    h1 {
-      text-transform: uppercase;
-      line-height: 35px;
-      font-weight: 800;
-      font-size: 40px;
-    }
+        <hr/>
+        <ul>
+          <li><a href="mailto:devjeandias@gmail.com">devjeandias@gmail.com</a></li>
+          <li><a href="https://api.whatsapp.com/send?phone=5521976459780" target="_blank">21 97654-9780</a></li>
+          <li><a href="download/jeandias.pdf" target="_blank">Curriculum</a></li>
+        </ul>
+    </aside>
 
-    p {
-      text-transform: uppercase;
-      margin-bottom: 20px;
-      font-weight: 300;
-      font-size: 14px;
-    }
+    <div id="portfolio" style="display: none">
+      <h2>Principais Projetos</h2>
 
-    a {
-      color: #fff;
-      font-size: 16px;
-      font-weight: 700;
-      text-decoration: none;
-      display: block;
-      text-transform: uppercase;
-      -webkit-transform: scale(1);
-          -ms-transform: scale(1);
-              transform: scale(1);
-      -webkit-transition: .5s;
-      -o-transition: .5s;
-      transition: all .5s;
-    }
-
-    a:hover {
-      -webkit-transform: scale(1.2);
-          -ms-transform: scale(1.2);
-              transform: scale(1.2);
-    }
-
-  </style>
-
-  <div class="wrapper">
-    <h1>Jean Dias</h1>
-    <p>Front-end Developer</p>
-    <a href="download/jeandias.pdf" target="_blank">Curriculum</a>
+      <ul class="jobs">
+          <li class="item">
+            <figure>
+              <img src="/img/odebrecht.png" alt="">
+            </figure>
+  
+            <ul>
+                <li>
+                  <a href="#">Precença no mundo</a>
+                </li>
+  
+                <li>
+                  <a href="#">Arenas</a>
+                </li>
+            </ul>
+          </li>
+          <li class="item">
+            <figure>
+              <img src="/img/olx.png" alt="">
+            </figure>
+  
+            <ul>
+                <li>
+                  <a href="#">Precença no mundo</a>
+                </li>
+  
+                <li>
+                  <a href="#">Arenas</a>
+                </li>
+            </ul>
+          </li>
+      </ul>
+    </div>
   </div>
-
 </body>
 </html>
