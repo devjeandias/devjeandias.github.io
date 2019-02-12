@@ -118,6 +118,7 @@
     }
 
     #sidebar a img {
+        display: inline-block;
         margin-right: 10px;
     }
 
