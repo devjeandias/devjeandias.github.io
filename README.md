@@ -7,7 +7,7 @@
 - E-mails: devjeandias@gmail.com
 - LinkedIn: https://www.linkedin.com/in/jean-c-dias-552a7871/
 
-Profissional com mais de 6 anos de experiência no ambiente internet. 
+Profissional com mais de 7 anos de experiência no ambiente internet. 
 
 Durante esses anos, atuei ao lado de grandes profissionais da internet brasileira como desenvolvedor front-end e na liderança técnica de equipes de front-end. Já atuei nos mais variados tipos de projetos. Penso constantemente em soluções objetivando o melhor resultado para o projeto e para a empresa. 
 
