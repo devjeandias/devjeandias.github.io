@@ -155,6 +155,7 @@
 
     .projeto {
         position: relative;
+        display: flex;
     }
     
     .projeto img {
@@ -163,13 +164,9 @@
     }
     
     .projeto .tags {
-        background: #000000;
-        position: absolute;
-        padding: 20px;
         opacity: .8;
         width: 100%;
-        bottom: 0px;
-        left: 0px;
+        font-size: 16px;
     }
 
     .projeto .tags  li {
