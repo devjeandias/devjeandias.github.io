@@ -116,7 +116,9 @@
         font-size: 16px;
         line-height: 30px;
         text-decoration: none;
-        min-width: 130px;
+        min-width: 175px;
+        paddging-right: 20px;
+        text-align: right;
     }
 
     #sidebar a img {
