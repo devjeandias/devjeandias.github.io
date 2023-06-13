@@ -111,11 +111,12 @@
     }
 
     #sidebar a {
-        display: flex;
+        display: block;
         color: inherit;
         font-size: 16px;
         line-height: 30px;
-        text-decoration: none;   
+        text-decoration: none;
+        min-width: 130px;
     }
 
     #sidebar a img {
@@ -156,17 +157,14 @@
     .projeto {
         position: relative;
         display: flex;
+        justify-content: flex-start;
+        align-items: center;
     }
-    
-    .projeto img {
-        max-width: 100%;
-        width: 100%;
-    }
-    
+       
     .projeto .tags {
         opacity: .8;
         width: 100%;
-        font-size: 16px;
+        font-size: 12px;
     }
 
     .projeto .tags  li {
